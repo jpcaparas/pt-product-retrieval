@@ -1,6 +1,6 @@
 # Instructions
 
-Please create a Javascript function that has a parameter `productType`, upon executing this function, it should: retrieve data from `sample.com` products, and `sample.com/producttypes`. Consider that upon retrieving you might have to deal with race conditions.
+Please create a Javascript function that has a parameter `productType`, upon executing this function, it should: retrieve data from `sample.com/products`, and `sample.com/producttypes`. Consider that upon retrieving you might have to deal with race conditions.
 
 ## Final result
 
